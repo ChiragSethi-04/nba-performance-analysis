@@ -16,8 +16,8 @@ Statistical regression analysis predicting NBA player net rating.
 ## Team
 SP Jain School of Global Management — Statistical Data Analysis
 
-Chirag Sethi
-Shree Iyengar
-Mitrajit Kumar
-Hardik Sharma
-Shreeya Mandore
+-Chirag Sethi
+-Shree Iyengar
+-Mitrajit Kumar
+-Hardik Sharma
+-Shreeya Mandore
